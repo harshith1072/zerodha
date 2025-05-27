@@ -6,7 +6,7 @@ import HomePage from './landingpage/home/HomePage';
 import About from './landingpage/about/AboutPage';
 import ProductsPage from './landingpage/products/ProductsPage';
 import Pricing from './landingpage/pricing/PricingPage';
-import Support from './landingpage/support/Support';
+import Support from './landingpage/support/SupportPage';
  
 import Signup from './landingpage/signup/Signup';
  import NotFound from './landingpage/home/NotFound';  
